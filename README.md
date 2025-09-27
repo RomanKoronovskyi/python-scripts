@@ -30,10 +30,11 @@ Install required dependencies:
 
 ```bash
 pip install psutil
-
+```
 ## Usage
 
 To run the snapshot monitor script, use the following command:
 
 ```bash
 python snapshot.py [-i INTERVAL] [-f FILENAME] [-n NUMBER]
+```
