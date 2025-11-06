@@ -1,2 +1,2 @@
-# python-tasks
-Python tasks from EPAM course: "[Fundamentals] Cloud &amp; DevOps UA"
+# python-scripts
+Python scripts designed to automate routine tasks, system administration areas, and DevOps
